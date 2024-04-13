@@ -1,0 +1,19 @@
+Below are the steps:
+
+In 1st terminal:
+-> 'make'
+-> ./pantherdec test -d 8888 -l
+
+In 2nd terminal
+
+-> ./panthercrypt test -d 192.168.12.130:8888 -l
+-> password:
+
+//Remove the 'test' from the folder//
+
+//Go back to first terminal to decrypt th file 'test.fiu', To see 'successfully received and decrypted'//
+
+
+
+
+
